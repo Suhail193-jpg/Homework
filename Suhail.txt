@@ -1,0 +1,3 @@
+run:
+ My name is Ahmad Suhail son of Abdul Qayoom  Student of CS at Kabul University, department of Information Technology and currently a citizen of Kabul city. I'm keen interested in the field I've selected and I am hopeful to go along with it successfully. Presented to Mr. Rohid Khaliqyar
+BUILD SUCCESSFUL (total time: 1 second)
